@@ -2,7 +2,7 @@
 
 ## Motivation
 - reduce the bug rate in your software project - in a structural way! (not just bug by bug)
-- 
+
 ## Prequisites
 
 - in order to talk about bugs, create a psychological safe environment in your team

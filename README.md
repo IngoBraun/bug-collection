@@ -9,7 +9,7 @@ Collect the bugs of your software-project in a simple table monthly.
     - ask the question, how to prevent this bug
     - the 5-why-method, root-cause-analysis, poka-yoke may help you
     
-companies with procative bug management are usually more successful!    
+companies with proacative bug management are usually more successful!    
 
 ## Bug Collection
 - collect bugs in a simple table - don't spend time with tooling, focus on learning

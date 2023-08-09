@@ -1,4 +1,4 @@
-# Bug collction: analyis and prevention
+# Bug collection: analyis and prevention
 
 Collect the bugs of your software-project in a simple table monthly.
 
